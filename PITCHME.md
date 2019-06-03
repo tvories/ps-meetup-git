@@ -64,13 +64,14 @@ Twitter: @Taylor_Vories
 ### Working from left to right
 
 - Your workflow when using git should move from left (working area) to right (staging and then repository)
+![](assets/img/git.png)
 
 +++
 
 ### Working Area
 
 - You make changes here that you don't care about tracking
-- Get your PowerShell to work before you add it
+- Example: Get your PowerShell to work before you add it
 
 +++
 
@@ -86,6 +87,13 @@ Twitter: @Taylor_Vories
 - The magic
 - Files and their history
 - All the changes you have checked in over time
-- `git commit`
+- `git commit` is an example of moving your changes from index to repository
 
+---
 
+### Recap
+
+- Version control is good
+- Git is a popular version control system
+- Multiple areas in git to manage workflow
+![](assets/img/gitkcd.png)
