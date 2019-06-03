@@ -94,11 +94,15 @@ Twitter: @Taylor_Vories
 ### Recap
 
 @snap[west span-60]
-- Version control is good
-- Git is a popular version control system
-- Multiple areas in git to manage workflow
+
+* Version control is good
+* Git is a popular version control system
+* Multiple areas in git to manage workflow
+
 @snapend
 
 @snap[east span-40]
+
 ![](assets/img/gitkcd.png)
+
 @snapend
