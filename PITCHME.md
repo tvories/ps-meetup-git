@@ -1,4 +1,5 @@
-# Git Primer and Workflow
+## Git Primer and Workflow
+Twitter: @Taylor_Vories
 
 ![](assets/img/slide1.jpeg)
 
