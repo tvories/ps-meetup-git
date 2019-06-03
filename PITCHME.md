@@ -105,3 +105,8 @@ Twitter: @Taylor_Vories
 @snap[east span-40]
 ![](assets/img/gitkcd.png)
 @snapend
+
+
+---
+
+### Examples
