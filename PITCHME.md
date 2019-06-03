@@ -4,11 +4,11 @@
 
 ---
 
-## The Basics (Quickly)
+### The Basics (Quickly)
 Git Differences - Snapshots
 
 ![](assets/img/git_snapshot.png)
 
 +++
-
+### The Basics (Quickly)
 Operations are done locally
