@@ -2,7 +2,7 @@ theme : black
 logo : assets/img/logo.png
 logo-position : top-left
 
-# layout : center
+layout : top
 
 footnote : "Denver PowerShell Meetup"
 
