@@ -5,6 +5,10 @@
 ---
 
 ## The Basics (Quickly)
-Git Differences
+Git Differences - Snapshots
 
 ![](assets/img/git_snapshot.png)
+
++++
+
+Operations are done locally
