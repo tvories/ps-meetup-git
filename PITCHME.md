@@ -35,8 +35,26 @@
 - Git is comprised of 4 main areas.
 - Stash
 - Working Area
-- Index
+- Index (staging area)
 - Repository (not shared repository, local)
 
 @ulend
 ![](assets/img/git.png)
+
+---
+
+### Stash
+
+- The stash is not used often but it is useful.
+- You can store changes you aren't ready to commit and work on something else for a while
+- Put your work aside quickly and then get back to it
+
++++
+
+### Stash commands
+
+- `git stash` - Stores your un-committed data in the stash
+- `git stash list` - Shows you your stashes
+- `git stash apply` - Brings back the stash to the working directory
+- `git stash clear` - Destroys the stash area and removes anything in there
+
