@@ -95,7 +95,7 @@ Twitter: @Taylor_Vories
 
 @snap[west span-60]
 
-@ul
+@ul[spaced text-white]
 - Version control is good
 - Git is a popular version control system
 - Multiple areas in git to manage workflow
@@ -103,7 +103,5 @@ Twitter: @Taylor_Vories
 @snapend
 
 @snap[east span-40]
-
 ![](assets/img/gitkcd.png)
-
 @snapend
