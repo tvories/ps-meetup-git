@@ -4,4 +4,8 @@
 
 ---
 
-## Slide 2
+## The Basics (Quickly)
+Git Differences
+@snap[west span-50]
+![](assets/img/git_snapshot.png)
+@snapend
