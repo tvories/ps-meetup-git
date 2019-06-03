@@ -49,3 +49,42 @@
 - `git stash apply` - Brings back the stash to the working directory
 - `git stash clear` - Destroys the stash area and removes anything in there
 
+---
+
+### Working Area, Index, and Repository
+
+- The three main git areas
+- Working Area - Where you are working
+- Index (Staging) - Where you stage your changes
+- Repository - All the files and their committed history.
+
+---
+
+### Working from left to right
+
+- Your workflow when using git should move from left (working area) to right (staging and then repository)
+
++++
+
+### Working Area
+
+- You make changes here that you don't care about tracking
+- Get your PowerShell to work before you add it
+
++++
+
+### Index (Staging)
+
+- This is where you stage your files to be added to version control
+- `git add` is an example of staging your changes
+
++++
+
+### Repository (local)
+
+- The magic
+- Files and their history
+- All the changes you have checked in over time
+- `git commit`
+
+
