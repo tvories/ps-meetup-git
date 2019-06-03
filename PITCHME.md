@@ -6,4 +6,5 @@
 
 ## The Basics (Quickly)
 Git Differences
+
 ![](assets/img/git_snapshot.png)
