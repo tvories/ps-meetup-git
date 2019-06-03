@@ -1,0 +1,11 @@
+theme : black
+logo : assets/img/logo.png
+logo-position : top-left
+
+layout : center
+
+footnote : "Denver PowerShell Meetup"
+
+published : true
+
+title : "Denver PowerShell meetup on git workflow"
